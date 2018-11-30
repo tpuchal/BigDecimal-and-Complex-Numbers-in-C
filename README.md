@@ -6,4 +6,4 @@ With use of these classes you can do basic arithmetical operations (addition, su
 
 The whole project also implements same operations on Complex Numbers. I have also started implementing custom list class MyList that enables users to store and manipulate multiple BigDecimals
 
-Some parts can be simplified and I will probably do so in the future but for now it works just fine, I compiled these files using gcc in order to check for the potential memory leaks and discovered none.
+Some parts can be simplified (especially the adding function is way too complicated) and I will probably do so in the future but for now it works just fine, I compiled these files using gcc in order to check for the potential memory leaks and discovered none.
