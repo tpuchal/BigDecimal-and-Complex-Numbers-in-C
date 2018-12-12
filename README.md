@@ -1,5 +1,5 @@
 # BigDecimal-and-Complex-Numbers-in-C
-Implementation of BigDecimal and Complex numbers in C using only arrays
+Implementation of BigDecimal and Complex numbers in C using only basic arrays
 
 The main idea behind this project was to not use any data structures except for single- dimensional arrays
 With use of these classes you can do basic arithmetical operations (addition, subtraction, multiplication, division) regardless of their size.
